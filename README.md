@@ -23,6 +23,7 @@ Ideal for cloud engineers, SREs, and IaC practitioners refining their skills in 
 ├── variables.tf    
 ├── outputs.tf     
 ├── external_dependency_storage_bucket.tf    
+├── dependency_graph.png    
 ---
 
 ## 🧱 What’s Inside
