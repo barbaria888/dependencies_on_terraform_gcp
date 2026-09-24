@@ -1,20 +1,22 @@
-# ☁️ terraform-dependency-models-gcp
+# ☁️ terraform-dependency-models on GCP
 
 > A focused Terraform project demonstrating how to model **resource dependencies**—both **implicit** and **explicit**—on **Google Cloud Platform (GCP)**.  
 > Built for clarity, precision, and real-world relevance.
 
 ---
 
-## 🎯 Project Purpose
+##  Project overview
 
 This repository illustrates how Terraform manages the order of resource creation using two core approaches:
 
-- 🧩 **Implicit Dependencies** – Automatically inferred through resource references.
-- 🔗 **Explicit Dependencies** – Declared using the `depends_on` meta-argument when Terraform cannot infer them from context.
+-  **Implicit Dependencies** – Automatically inferred through resource references.
+-  **Explicit Dependencies** – Declared using the `depends_on` meta-argument when Terraform cannot infer them from context.
 
 Ideal for cloud engineers, SREs, and IaC practitioners refining their skills in **modular, dependency-aware infrastructure design**.
 
 ---
+
+<img src="https://github.com/barbaria888/dependencies_on_terraform_gcp/blob/main/graph_for_dependencies_lab.png">
 
 ## 🗂️ Folder Structure
 
