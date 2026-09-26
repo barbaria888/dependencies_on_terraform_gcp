@@ -19,13 +19,15 @@ Ideal for cloud engineers, SREs, and IaC practitioners refining their skills in 
 <img src="https://github.com/barbaria888/dependencies_on_terraform_gcp/blob/main/graph_for_dependencies_lab.png">
 
 ## 🗂️ Folder Structure
-
+```text
 ├── provider.tf       
 ├── instance.tf     
 ├── variables.tf    
 ├── outputs.tf     
 ├── external_dependency_storage_bucket.tf    
 ├── graph_for_dependencies_lab.png
+```
+
 ---
 
 ## 🧱 What’s Inside
